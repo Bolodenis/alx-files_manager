@@ -15,16 +15,16 @@ Of course, this kind of service already exists in the real life - it’s a learn
 Enjoy!
 # Resources
 ## Read or watch:
-- Link [link](https://intranet.alxswe.com/rltoken/buFPHJYnZjtOrTd610j6Og)
-- Link [link](https://intranet.alxswe.com/rltoken/uYPplj2cPK8pcP0LtV6RuA)
-- Link [link](https://intranet.alxswe.com/rltoken/SujfeWKCWmUMomfETjETEg)
-- Link [link](https://intranet.alxswe.com/rltoken/FzEwplmoZiyGvkgKllZNJw)
-- Link [link](https://intranet.alxswe.com/rltoken/pdNNTX0OLugbhxvP3sLgOw)
-- Link [link](https://intranet.alxswe.com/rltoken/g1x7y_3GskzVAJBTXcSjmA)
-- Link [link](https://intranet.alxswe.com/rltoken/NkHBpGrxnd0sK_fDPMbihg)
-- Link [link](https://intranet.alxswe.com/rltoken/KX6cck2nyLpQOTDMLcwxLg)
-- Link [link](https://intranet.alxswe.com/rltoken/j9B0Kc-4HDKLUe88ShbOjQ)
-- Link [link](https://intranet.alxswe.com/rltoken/nqwKRszO8Tkj_ZWW1EFwGw)
+- Node JS getting started [link](https://intranet.alxswe.com/rltoken/buFPHJYnZjtOrTd610j6Og)
+- Process API doc [link](https://intranet.alxswe.com/rltoken/uYPplj2cPK8pcP0LtV6RuA)
+- Express getting started [link](https://intranet.alxswe.com/rltoken/SujfeWKCWmUMomfETjETEg)
+- Mocha documentation [link](https://intranet.alxswe.com/rltoken/FzEwplmoZiyGvkgKllZNJw)
+- Nodemon documentation [link](https://intranet.alxswe.com/rltoken/pdNNTX0OLugbhxvP3sLgOw)
+- MongoDB [link](https://intranet.alxswe.com/rltoken/g1x7y_3GskzVAJBTXcSjmA)
+- Bull [link](https://intranet.alxswe.com/rltoken/NkHBpGrxnd0sK_fDPMbihg)
+- Image thumbnail [link](https://intranet.alxswe.com/rltoken/KX6cck2nyLpQOTDMLcwxLg)
+- Mime-Types [link](https://intranet.alxswe.com/rltoken/j9B0Kc-4HDKLUe88ShbOjQ)
+- Redis [link](https://intranet.alxswe.com/rltoken/nqwKRszO8Tkj_ZWW1EFwGw)
 
 # Learning Objectives
  At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
